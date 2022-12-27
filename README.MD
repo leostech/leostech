@@ -13,8 +13,8 @@ Have worked in all phases of the project life cycle, using a wide variety of too
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=gyroflaw&theme=merko&layout=compact&hide_border=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyroflaw&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=leostech&theme=merko&layout=compact&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leostech&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true)
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=leostech.leostech" />
 <img align="right" src="https://img.shields.io/github/followers/leostech?label=Follow&style=social" />
@@ -39,52 +39,3 @@ Have worked in all phases of the project life cycle, using a wide variety of too
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/electron-67-1175035.png" width="100"></td>
   </tr>
 </table>
-
-## **👍 Experienced Blockchain Networks**
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBUCvl89tSAMKbnSZqc9itD8CqFMpaModsxA&usqp=CAU" width="48" height="48" alt="Ethereum" />
-      </a>
-      <br>Ethereum
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0bukCY968PkxsM2v3W7dLuMvkSjS1Ni65vQ&usqp=CAU" width="48" height="48" alt="Binance" />
-      </a>
-      <br>Binance
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="48" height="48" alt="Solana" />
-      </a>
-      <br>Solana
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://cryptologos.cc/logos/casper-cspr-logo.png" width="48" height="48" alt="Casper" />
-      </a>
-      <br>Casper
-    </td>    
-    <td align="center" width="96">
-      <a href="" >
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3plj3648_HE4GOntwzMxwsGq9Ro9qf-wx9w&usqp=CAU" width="48" height="48" alt="React" />
-      </a>
-      <br>Polkadot
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4pf4JAFjfEhB5VY0-TJH4Y1aLS-BPCdddsw&usqp=CAU" width="48" height="48" alt="Avalanche" />
-      </a>
-      <br>Avalanche
-    </td>
-    <td align="center" width="96">
-      <a href="">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgwyOAYn_Z1BalQYMfN8zVqwenavJVSO9SUZ1rz0ZerShW-5Ubzf6U96kLODC-ta2bVks&usqp=CAU" width="48" height="48" alt="Polygon" />
-      </a>
-      <br>Polygon
-    </td>
-  </tr>
-  </table>
