@@ -118,13 +118,3 @@ Let's discuss your needs - web scraping, data mining, scrapers, bots, pixel tool
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
-
----
-
-### 🔥 &nbsp; My Stats :
-
-<p align="center">
-  <img height="150" width="150" src="WEBP/left.webp">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=cryptotopstar&theme=dark&background=000000"/>
-  <img height="150" width="150" src="WEBP/right.webp">
-</p>
