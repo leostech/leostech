@@ -20,6 +20,12 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 <img align="right" src="https://img.shields.io/github/followers/leostech?label=Follow&style=social" />
 <h1 align="center"></h1>
 
+## Watch my contribution graph being eaten by a snake🐍
+
+<p align="center">
+  <img src="https://github.com/arnav1776/arnav1776/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 ## **𝐒𝐤𝐢𝐥𝐥𝐬**
 
 <table>
