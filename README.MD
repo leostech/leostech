@@ -10,9 +10,6 @@ I've worked on a wide range of projects, and done hundreds of personal projects 
 I have rich experience in Django, Flask, MongoDB, PostreSQL, MSSQL, MYSQL, React, Vue, Typescript, Javascript, HTML, CSS.
 
 Let's discuss your needs - web scraping, data mining, scrapers, bots, pixel tools, messaging tools. I can do it all.
-  
-
-
 
 </p>
 <p align="center">
