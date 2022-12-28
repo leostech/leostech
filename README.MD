@@ -3,14 +3,6 @@
 <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
   <p>
 
-Creative, Passionate, and Efficient Full-Stack Python developer with 8 years of experience in web development. I've been programming since the age of ~13. Soon after I started, I grew fond of automation - I realized that I had so much fun watching something automatically happen on my screen. But even more than that, I got the most fun when it was something I made. Whether it be a simple pixel bot clicking around a game, or a complex scraper outputting a stream of data for me to view, it's always given me the same feeling of joy, and I strive to get that feeling every day.
-
-I've worked on a wide range of projects, and done hundreds of personal projects for myself. Every automation project is a unique challenge that I find thrilling. I love speed-coding, and in fact I often complete an entire scraper and sample set before even bidding on a project, confident that it is 10 minutes for me but 1 week for others.
-
-I have rich experience in Django, Flask, MongoDB, PostreSQL, MSSQL, MYSQL, React, Vue, Typescript, Javascript, HTML, CSS.
-
-Let's discuss your needs - web scraping, data mining, scrapers, bots, pixel tools, messaging tools. I can do it all.
-
 </p>
 <p align="center">
   <a href="https://github.com/leostech">
