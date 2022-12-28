@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/leostech">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full-Stack%;&center=true&width=800&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full-Stack;&center=true&width=800&height=45">
   </a>
 </p>
 
