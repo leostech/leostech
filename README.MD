@@ -2,8 +2,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=leostech&theme=merko&layout=compact&hide_border=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leostech&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true)
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=leostech.leostech" />
-<img align="right" src="https://img.shields.io/github/followers/leostech?label=Follow&style=social" />
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=leostech.leostech" />
+<img align="center" src="https://img.shields.io/github/followers/leostech?label=Follow&style=social" />
 <h1 align="center"></h1>
 
 ## **𝐒𝐤𝐢𝐥𝐥𝐬**
